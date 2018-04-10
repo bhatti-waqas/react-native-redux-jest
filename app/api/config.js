@@ -1,0 +1,1 @@
+export let baseURL = 'https://staging.rent.com.au/api/v1'
